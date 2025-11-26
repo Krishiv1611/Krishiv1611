@@ -22,7 +22,7 @@ I enjoy building things that people actually use — systems that combine creati
 
 ---
 
-# 🧩 Featured Projects (Minimal & Clean)
+# 🧩 Featured Projects 
 
 ### 🔹 **CareerPilot AI**  
 An agentic, AI-powered job-search and resume-matching system using FastAPI, Streamlit, LangGraph, and SQLite.  
