@@ -25,7 +25,7 @@ I enjoy building things that people actually use — systems that combine creati
 # 🧩 Featured Projects 
 
 ### 🔹 **CareerPilot AI**  
-An agentic, AI-powered job-search and resume-matching system using FastAPI, Streamlit, LangGraph, and SQLite.  
+An agentic, AI-powered job-search and resume-matching system using FastAPI, React, LangGraph, and SQLite.  
 Includes: web search via SerpAPI, job analysis agents, resume parsing, and intelligent matching.
 
 ### 🔹 **Ridemate**  
