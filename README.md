@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Krishiv%20Arora&fontColor=f8fafc&fontSize=50&fontAlignY=40&desc=GenAI%20Engineer%20•%20Full-Stack%20Architect&descSize=16&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:240046,100:0f172a&text=Krishiv%20Arora&fontColor=22d3ee&fontSize=55&fontAlignY=38&desc=GenAI%20Engineer%20•%20Full-Stack%20Architect&descSize=18&descAlignY=60&descAlign=50" />
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Designing+Scalable+Agentic+Workflows;Crafting+Clean+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;Designing+Scalable+Agentic+Workflows;Crafting+Clean+Architecture" />
 </div>
 
 <br/>
@@ -38,16 +38,25 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 CareerPilot AI** | **Agentic Job-Search System**<br>An intelligent system using multi-agent workflows to parse resumes, analyze market trends, and match candidates to jobs with real-time web search. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **🤖 CareerPilot AI** | **Agentic Job-Search System**<br>An intelligent system using multi-agent workflows to parse resumes, analyze market trends, and match candidates to jobs. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **🚘 Ridemate** | **Campus Ride-Sharing Platform**<br>A tailored mobility solution for students featuring ride pooling, real-time reservations, and safety-focused co-passenger visibility. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 | **🧠 SummarizeYou** | **RAG YouTube Assistant**<br>Chrome extension & chatbot that ingests video transcripts into a Vector DB for precise, context-aware Q&A on video content. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![VectorDB](https://img.shields.io/badge/Vector_DB-FF4F8B?style=flat-square) ![Chrome](https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white) |
 
 ---
 
-### 🧩 Problem Solving
-<div align="left">
+### 🧩 Problem Solving & Stats
+<div align="center">
   <img src="https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Data_Structures_%26_Algorithms-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blueviolet?style=for-the-badge" />
+  
+  <br/><br/>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
