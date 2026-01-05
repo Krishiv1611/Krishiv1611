@@ -46,15 +46,17 @@
 
 ### 🧩 Problem Solving & Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
   <img src="https://img.shields.io/badge/Focus-DSA-blueviolet?style=for-the-badge" />
-  
+  <a href="https://leetcode.com/krishivarora25">
+   <img src="https://github-readme-leetcode-card.romitsagu.com/krishivarora25?theme=tokyonight&font=fira_code&hide_border=true" alt="LeetCode Stats" />
+  </a>
   <br/><br/>
   
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Krishiv1611">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Krishiv1611">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
@@ -65,13 +67,13 @@
   
   ### Let's Connect
   
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/krishivarora25" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:krishivarora150@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Krishiv1611" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
