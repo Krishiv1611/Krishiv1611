@@ -46,12 +46,27 @@
 
 ### 🧩 Problem Solving & Stats
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Focus-DSA-blueviolet?style=for-the-badge" />
   <a href="https://leetcode.com/krishivarora25">
    <img src="https://github-readme-leetcode-card.romitsagu.com/krishivarora25?theme=tokyonight&font=fira_code&hide_border=true" alt="LeetCode Stats" />
   </a>
   <br/><br/>
+  <div align="center">
+  
+  <a href="https://github.com/krishivarora25">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishivarora25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/krishivarora25">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krishivarora25&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/krishivarora25">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishivarora25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+  </a>
+
+</div>
   
   <a href="https://github.com/Krishiv1611">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
