@@ -57,12 +57,15 @@
 
 </div>
   
+<div align="center">
   <a href="https://github.com/Krishiv1611">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krishiv1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Krishiv1611&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
+  
   <a href="https://github.com/Krishiv1611">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv1611&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv1611&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
+</div>
 </div>
 
 <br/>
