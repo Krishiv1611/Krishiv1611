@@ -1,78 +1,171 @@
-<!-- Header section with animated typing effect and Portfolio Button -->
+<!-- ========================= HERO SECTION ========================= -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krishiv+Arora+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
-  <br><br>
-  <a href="https://krishiv-arora-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00F0FF&color=0D1117" alt="Portfolio Website" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F0FF,50:7A5CFF,100:000000&text=Krishiv%20Arora&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Systems%20Builder&descAlignY=60&descSize=18" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Engineering+AI-Native+Products;Building+Agentic+AI+Systems;Designing+Scalable+Backend+Architectures;Developing+Realtime+Full-Stack+Platforms;Transforming+Ideas+into+Production-Ready+Systems" />
+
+<br/><br/>
+
+<a href="https://krishiv-arora-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/Krishiv1611" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a Full-Stack and AI Engineer pursuing a B.Tech in Computer Science Engineering at JIIT, Noida. I specialize in building robust backend architectures, event-driven systems, and integrating agentic AI workflows into highly scalable web applications. 
+```yaml
+Name: Krishiv Arora
+Role: AI Engineer & Full-Stack Developer
+Focus:
+  - Agentic AI Systems
+  - RAG Pipelines
+  - Backend Architecture
+  - Realtime Systems
+  - AI-Powered SaaS Products
 
-*   🚀 **Currently working on:** Advanced AI engineering, modular monoliths, and seamless API integrations.
-*   🧠 **Tech Focus:** Full-Stack Web Development, Retrieval-Augmented Generation (RAG), and Cloud Infrastructure.
-*   🏆 **Achievements:** 400+ problems solved on LeetCode | 3-Star Coder on CodeChef | Contributor at Winter of Code 5.0.
-*   📫 **Reach me at:** [krishiv-arora-portfolio.vercel.app](https://krishiv-arora-portfolio.vercel.app/)
+Currently Building:
+  - AI-native applications
+  - Autonomous workflows
+  - Scalable backend systems
+  - Modern full-stack platforms
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-</p>
-
-**AI & Data Engineering**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-**Databases & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+Problem Solving:
+  - 400+ LeetCode Problems Solved
+  - 3★ CodeChef
+```
 
 ---
 
-### 🚀 Featured Projects
-
-*   **Synora:** A B2B omnichannel AI platform leveraging RAG, Gemini 2.5 Flash, and seamless Vapi integration for high-fidelity voice support.
-*   **Career Pilot AI:** An agentic job-search system engineered with FastAPI, React, and LangGraph to analyze resumes and curate personalized job recommendations.
-*   **RideMates:** A full-stack MERN application purpose-built for efficient and secure campus ride-sharing.
-
----
-
-### 📊 GitHub Stats
+# ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishiv1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Krishiv's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishiv1611&theme=tokyonight&hide_border=true&background=0D1117" alt="Krishiv's GitHub Streak" width="48%" />
-</div>
 
-<br>
+## 💻 Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv1611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark" />
+
+<br/><br/>
+
+## 🚀 Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&theme=dark" />
+
+<br/><br/>
+
+## 🧠 AI & Engineering
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" />
+
+<br/><br/>
+
+## 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,aws,supabase&theme=dark" />
+
 </div>
 
 ---
 
+# 🚀 Featured Projects
+
 <div align="center">
-  <i>Building modular architectures and pushing the boundaries of AI engineering.</i>
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **Synora** | AI-powered omnichannel support platform with RAG pipelines, semantic search, analytics dashboards, and low-latency voice agents. | `Next.js` `Gemini` `Vapi` `PostgreSQL` |
+| **CareerPilot AI** | Multi-agent AI system for resume analysis, intelligent job matching, and workflow orchestration. | `FastAPI` `LangGraph` `React` |
+| **InsightPilot** | Multi-agent GenAI analytics platform for EDA, model training, insights generation, and automated reporting. | `LangGraph` `FastAPI` `SQLite` |
+| **RideMates** | Campus-first intelligent ride-sharing platform with realtime communication and reservation workflows. | `MERN` `Socket.IO` `JWT` |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishiv1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7A5CFF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishiv1611&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7A5CFF&currStreakLabel=00F0FF"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishiv1611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF"/>
+
+</div>
+
+---
+
+# 🧠 Engineering Philosophy
+
+> I enjoy building AI-native systems where intelligent workflows,
+> scalable backend engineering, and polished user experiences work together seamlessly.
+
+I’m especially interested in:
+
+- Autonomous AI Agents
+- RAG Architectures
+- Distributed Backend Systems
+- AI Product Engineering
+- Realtime Full-Stack Platforms
+- Scalable APIs & System Design
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krishiv1611&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://krishiv-arora-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Krishiv1611">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *Building AI-native products with scalable engineering foundations.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7A5CFF,100:000000&height=120&section=footer"/>
+
 </div>
