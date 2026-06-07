@@ -2,22 +2,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:2563EB,100:1E293B&text=Krishiv%20Arora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20scalable%20systems%20by%20day,%20exploring%20AI%20by%20night.&descAlignY=65&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:161B22,100:0D1117&text=Krishiv%20Arora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20scalable%20systems%20by%20day,%20exploring%20AI%20by%20night.&descAlignY=65&descSize=16" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Passionate+about+building+impactful+software;Constantly+exploring+new+technologies;Transforming+complex+problems+into+elegant+solutions;Crafting+scalable+and+efficient+architectures" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Passionate+about+building+impactful+software;Constantly+exploring+new+technologies;Transforming+complex+problems+into+elegant+solutions;Crafting+scalable+and+efficient+architectures" />
 
 <br/><br/>
 
 <a href="https://krishiv-arora-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E293B" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
 </a>
 <a href="https://github.com/Krishiv1611" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 
 </div>
